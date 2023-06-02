@@ -151,7 +151,11 @@
     .contact-section {
         padding-top: 15px !important;
         padding: 0px !important;
-      }
+    }
+
+    .home-banner {
+        object-fit: cover;
+    }
 }
 
 @media (max-width: 480px) {}
